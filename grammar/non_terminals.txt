@@ -1,0 +1,24 @@
+S
+IC
+IC Semicolon IC
+
+IC
+Subj VP
+Int Comma Subj VP
+
+Subj
+Pron
+NP
+
+NP
+Art N
+Art Adj N
+
+VP
+V
+V Prep NP
+
+Int
+PresPart
+PresPart Prep NP
+
